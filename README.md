@@ -39,7 +39,7 @@ Document comparison
 | `rag_engine.py` | Citation-aware QA prompt, document summarization, suggested questions, comparison prompts |
 | `providers.py` | LLM calls — Gemini, DeepSeek, Llama 3.3 (via GitHub Models) |
 | `cost_estimator.py` | Per-model $/token pricing table and blended cost estimates |
-| `style.py` | Dark/light theme (adapted from Orbit) |
+| `style.py` | Dark/light theme |
 
 ## Features implemented
 
