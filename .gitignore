@@ -17,3 +17,4 @@ venv/
 
 # huggingface cache if you ever point it locally into the repo
 .cache/
+users.json
