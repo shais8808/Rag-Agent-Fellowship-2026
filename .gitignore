@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# vector store / generated data
+chroma_db/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# huggingface cache if you ever point it locally into the repo
+.cache/
